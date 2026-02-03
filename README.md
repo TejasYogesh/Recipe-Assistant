@@ -20,6 +20,3 @@ It supports persistent chat history and contextual answers based on stored conve
 - **Vector Store**: ChromaDB
 - **Environment**: Python, dotenv
 
----
-
-## 📂 Project Structure
